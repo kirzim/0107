@@ -1,0 +1,55 @@
+.landing{
+    width: 1500px
+    height 5478px
+    top -513px
+    left 2844px
+}
+
+.header{
+    width: 1500px
+    height 798px
+}
+
+.layout{
+    width: 1360px
+    height 896px
+    top 30px
+    left 70px
+}
+
+.card{
+    Width: 1245px
+    Height 566px
+    Top 1116px
+    Left 130px
+}
+
+.card2{
+    width: 1240px
+    height 716px
+    top 1872px
+    left 130px
+    border-radius 20px
+}
+
+.card3{
+    width: 1360px
+    height 854px
+    top 2778px
+    left 70px 
+}
+
+.card4{
+    width: 1240px
+    height 807px
+    top 3822px
+    left 130px
+}
+
+.footer{
+    width: 1500px
+    height 459px
+    top 4819px
+    border 1px
+
+}
